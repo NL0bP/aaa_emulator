@@ -1,0 +1,13 @@
+*.pyc
+/__pycache__
+.vscode/launch.json
+
+Game/debug
+Game/Game
+
+Proxy/debug
+Proxy/Proxy
+
+Login/debug
+Login/Login
+_py_source/.vscode/settings.json
